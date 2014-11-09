@@ -2,7 +2,15 @@ package part_1;
 
 public class Constants {
 
-    public static final int ELEMENT_COUNT = 100_000;
+    public static int ELEMENT_COUNT = 50_000;
+
+    public static int getELEMENT_COUNT() {
+        return ELEMENT_COUNT;
+    }
+
+    public static void setELEMENT_COUNT(int ELEMENT_COUNT) {
+        Constants.ELEMENT_COUNT = ELEMENT_COUNT;
+    }
 
     enum InsertPosition {
         inTheBeginning("beginning", 0.0),
@@ -24,6 +32,7 @@ public class Constants {
         Delete ("Deleting");
 
         String text;
+
         OperationType(String text){
             this.text = text;
         }
