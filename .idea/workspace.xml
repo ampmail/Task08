@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f54d9f80-5633-4044-823b-4625f18362a1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/part_1/ArraysAnalyse.java" afterPath="$PROJECT_DIR$/src/main/java/part_1/ArraysAnalyse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/part_1/Utils.java" afterPath="$PROJECT_DIR$/src/main/java/part_1/Utils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Dropbox\Public\Java\it-source\Task08\src\main\java\sourceIT\ArraysAnalyse.java" afterPath="$PROJECT_DIR$/src/main/java/part_1/ArraysAnalyse.java" />
-      <change type="MOVED" beforePath="D:\Dropbox\Public\Java\it-source\Task08\src\main\java\sourceIT\Constants.java" afterPath="$PROJECT_DIR$/src/main/java/part_1/Constants.java" />
-      <change type="MOVED" beforePath="D:\Dropbox\Public\Java\it-source\Task08\src\main\java\sourceIT\Utils.java" afterPath="$PROJECT_DIR$/src/main/java/part_1/Utils.java" />
     </list>
     <ignored path="Task08.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,24 +68,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ArraysAnalyse.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ArraysAnalyse.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/part_1/ArraysAnalyse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="256" selection-end="256" vertical-scroll-proportion="0.2857143" vertical-offset="0" max-vertical-offset="1001">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="20" column="13" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="704">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utils.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Utils.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/part_1/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="75" selection-start="1933" selection-end="1933" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1848">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="121" column="29" selection-start="6350" selection-end="6350" vertical-scroll-proportion="2.6513944" vertical-offset="0" max-vertical-offset="3542">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,7 +89,7 @@
       <file leaf-file-name="Constants.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/part_1/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="18" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="814">
+            <state line="4" column="46" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="814">
               <folding />
             </state>
           </provider>
@@ -140,41 +135,11 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Task08" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Task08" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="3" />
     <option name="width" value="1920" />
-    <option name="height" value="1156" />
+    <option name="height" value="1159" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -624,17 +589,22 @@
       <workItem from="1414966695302" duration="1354000" />
       <workItem from="1415129627853" duration="2638000" />
       <workItem from="1415132268903" duration="5893000" />
-      <workItem from="1415304330648" duration="10522000" />
+      <workItem from="1415304330648" duration="10618000" />
+      <workItem from="1415482468237" duration="6870000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;2">
       <created>1415137895337</created>
       <updated>1415137895337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit&#10;3">
+      <created>1415314880125</created>
+      <updated>1415314880125</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26302000" />
+    <option name="totallyTimeSpent" value="33268000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -657,35 +627,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="3" width="1920" height="1156" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1159" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="1172" y="89" width="697" height="1021" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="1172" y="89" width="697" height="1021" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32910156" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39922103" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291262" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32910156" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18421052" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1858217" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1707841" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4050633" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4038835" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -702,7 +672,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Initial commit&#10;2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;2" />
+    <MESSAGE value="Initial commit&#10;3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -714,19 +685,36 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/part_1/ArraysAnalyse.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="484">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part_1/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="75" selection-start="1933" selection-end="1933" vertical-scroll-proportion="0.0" vertical-offset="880" max-vertical-offset="1848">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part_1/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="18" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="814">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part_1/ArraysAnalyse.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="572">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/part_1/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="34" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1034">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -746,9 +734,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="619" selection-end="619" vertical-scroll-proportion="0.20538385" vertical-offset="212" max-vertical-offset="11814">
-          <folding />
-        </state>
+        <state line="42" column="0" selection-start="619" selection-end="619" vertical-scroll-proportion="0.20538385" vertical-offset="212" max-vertical-offset="11814" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/AbstractList.java">
@@ -772,28 +758,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/part_1/ArraysAnalyse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="704">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="17" selection-start="3952" selection-end="3952" vertical-scroll-proportion="0.33266932" vertical-offset="1844" max-vertical-offset="24662">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/part_1/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="18" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="814">
+        <state line="4" column="46" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="814">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/part_1/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="75" selection-start="1933" selection-end="1933" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1848">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/part_1/ArraysAnalyse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="256" selection-end="256" vertical-scroll-proportion="0.2857143" vertical-offset="0" max-vertical-offset="1001">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="121" column="29" selection-start="6350" selection-end="6350" vertical-scroll-proportion="2.6513944" vertical-offset="0" max-vertical-offset="3542">
+          <folding />
         </state>
       </provider>
     </entry>
